@@ -1,6 +1,6 @@
 # Site settings
 title: Hyein's learn space
-description: 이곳은 제가 공부한것들을 올려놓는 곳입니다.
+description: "이곳은 제가 공부한것들을 올려놓는 곳입니다."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://Hye-inLee.github.io/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
